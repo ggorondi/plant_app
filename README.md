@@ -2,7 +2,7 @@
 
 This project is a simple web application made with Django // React // Tensorflow. 
 
-It provides a simple interface for users to upload images of plants and receive classification results using a Pre trained Convolutional Neural Network.
+It provides a simple interface for users to upload images of plants and receive classification results using a pre-trained Convolutional Neural Network.
 
 https://github.com/ggorondi/plant_app/assets/113739099/85d2d9e8-f853-423d-86dc-aeb143250890
 
