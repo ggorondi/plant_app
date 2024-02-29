@@ -5,12 +5,6 @@ It provides a simple interface for users to upload images of plants and receive 
 
 https://github.com/ggorondi/plant_app/assets/113739099/85d2d9e8-f853-423d-86dc-aeb143250890
 
-## Features
-
-- **Image Upload**: Users can upload images of plants using a drag-and-drop interface.
-- **Plant Classification**: The uploaded images are processed by a pre-trained TensorFlow model, which has been trained on a custom dataset of plant images. The model applies transfer learning on a MobileNetV2 architecture to classify images into 129 different species of plants.
-- **Classification Results**: After processing, the application displays the top prediction for the uploaded image along with the percentage of certainty.
-
 ## How It Works
 
 1. **Upload Image**: Users can upload an image of a plant using the drag-and-drop dropzone interface.
@@ -24,6 +18,7 @@ I used and modified a dataset of plant images obtained from a public project: ['
 - Strong class imbalance, long tailed distribution.
 - Many species are visually similar and 'difficult (to classify) even for the expert eye'
 - Low quality user uploaded images.
+  
 To face these issues, I only kept classes with over 400 images and trimmed classes with +1000 images. This approach improved validation accuracy by a wide margin. For 129 classes of plants the model achieves about 59% test accuracy, which is far from ideal but sufficient for my MVP. Further improvements include expanding the dataset with more images, cleaning and filtering the current images, and trying out different model architectures like ResNet. 
 
 ## Usage
