@@ -17,7 +17,7 @@ The MobileNetV2 model used in the project has been trained by applying transfer 
 I used and modified a dataset of plant images obtained from a public project: ['plantnet-300k'](https://openreview.net/forum?id=eLYinD0TtIt). This dataset is not ideal for my use-case because it was designed for research, and because of this has the following issues:
 - Strong class imbalance, long tailed distribution.
 - Many species are visually similar and 'difficult (to classify) even for the expert eye'
-- Low quality user uploaded images.
+- Has low quality user uploaded images.
   
 To face these issues, I only kept classes with over 400 images and trimmed classes with +1000 images. This approach improved validation accuracy by a wide margin. For 129 classes of plants the model achieves about 59% test accuracy, which is far from ideal but sufficient for my MVP. Further improvements include expanding the dataset with more images, cleaning and filtering the current images, and trying out different model architectures like ResNet. 
 
