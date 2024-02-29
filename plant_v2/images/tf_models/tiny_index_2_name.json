@@ -1,0 +1,490 @@
+{
+    "0": {
+        "class_id": "1355932",
+        "scientific_name": "Pelargonium graveolens L'H\u00e9r."
+    },
+    "1": {
+        "class_id": "1355936",
+        "scientific_name": "Cirsium arvense (L.) Scop."
+    },
+    "2": {
+        "class_id": "1355937",
+        "scientific_name": "Cirsium vulgare (Savi) Ten."
+    },
+    "3": {
+        "class_id": "1355978",
+        "scientific_name": "Pelargonium zonale (L.) L'H\u00e9r."
+    },
+    "4": {
+        "class_id": "1355990",
+        "scientific_name": "Mercurialis annua L."
+    },
+    "5": {
+        "class_id": "1356022",
+        "scientific_name": "Hypericum perforatum L."
+    },
+    "6": {
+        "class_id": "1356075",
+        "scientific_name": "Tradescantia fluminensis Vell."
+    },
+    "7": {
+        "class_id": "1356111",
+        "scientific_name": "Lamium amplexicaule L."
+    },
+    "8": {
+        "class_id": "1356126",
+        "scientific_name": "Lavandula dentata L."
+    },
+    "9": {
+        "class_id": "1356257",
+        "scientific_name": "Melilotus albus Medik."
+    },
+    "10": {
+        "class_id": "1356382",
+        "scientific_name": "Dryopteris filix-mas (L.) Schott"
+    },
+    "11": {
+        "class_id": "1356421",
+        "scientific_name": "Nephrolepis exaltata (L.) Schott"
+    },
+    "12": {
+        "class_id": "1356692",
+        "scientific_name": "Lithodora fruticosa (L.) Griseb."
+    },
+    "13": {
+        "class_id": "1356781",
+        "scientific_name": "Humulus lupulus L."
+    },
+    "14": {
+        "class_id": "1357330",
+        "scientific_name": "Calendula officinalis L."
+    },
+    "15": {
+        "class_id": "1357635",
+        "scientific_name": "Helminthotheca echioides (L.) Holub"
+    },
+    "16": {
+        "class_id": "1357677",
+        "scientific_name": "Lactuca muralis (L.) Gaertn."
+    },
+    "17": {
+        "class_id": "1358094",
+        "scientific_name": "Sedum acre L."
+    },
+    "18": {
+        "class_id": "1358095",
+        "scientific_name": "Sedum album L."
+    },
+    "19": {
+        "class_id": "1358105",
+        "scientific_name": "Sedum dasyphyllum L."
+    },
+    "20": {
+        "class_id": "1358133",
+        "scientific_name": "Sedum sediforme (Jacq.) Pau"
+    },
+    "21": {
+        "class_id": "1358150",
+        "scientific_name": "Alliaria petiolata (M. Bieb.) Cavara & Grande"
+    },
+    "22": {
+        "class_id": "1358605",
+        "scientific_name": "Mercurialis perennis L."
+    },
+    "23": {
+        "class_id": "1358689",
+        "scientific_name": "Hypericum androsaemum L."
+    },
+    "24": {
+        "class_id": "1358751",
+        "scientific_name": "Lamium hybridum Vill."
+    },
+    "25": {
+        "class_id": "1358752",
+        "scientific_name": "Lamium purpureum L."
+    },
+    "26": {
+        "class_id": "1358766",
+        "scientific_name": "Lavandula stoechas L."
+    },
+    "27": {
+        "class_id": "1359197",
+        "scientific_name": "Galega officinalis L."
+    },
+    "28": {
+        "class_id": "1359485",
+        "scientific_name": "Trifolium arvense L."
+    },
+    "29": {
+        "class_id": "1359488",
+        "scientific_name": "Trifolium campestre Schreb."
+    },
+    "30": {
+        "class_id": "1359498",
+        "scientific_name": "Trifolium incarnatum L."
+    },
+    "31": {
+        "class_id": "1359517",
+        "scientific_name": "Trifolium pratense L."
+    },
+    "32": {
+        "class_id": "1359616",
+        "scientific_name": "Punica granatum L."
+    },
+    "33": {
+        "class_id": "1359620",
+        "scientific_name": "Alcea rosea L."
+    },
+    "34": {
+        "class_id": "1359625",
+        "scientific_name": "Althaea officinalis L."
+    },
+    "35": {
+        "class_id": "1359669",
+        "scientific_name": "Nymphaea alba L."
+    },
+    "36": {
+        "class_id": "1360153",
+        "scientific_name": "Anemone coronaria L."
+    },
+    "37": {
+        "class_id": "1360588",
+        "scientific_name": "Daphne gnidium L."
+    },
+    "38": {
+        "class_id": "1360590",
+        "scientific_name": "Daphne laureola L."
+    },
+    "39": {
+        "class_id": "1360671",
+        "scientific_name": "Chaerophyllum temulum L."
+    },
+    "40": {
+        "class_id": "1360811",
+        "scientific_name": "Thapsia villosa L."
+    },
+    "41": {
+        "class_id": "1360978",
+        "scientific_name": "Pancratium maritimum L."
+    },
+    "42": {
+        "class_id": "1360998",
+        "scientific_name": "Anthericum liliago L."
+    },
+    "43": {
+        "class_id": "1361656",
+        "scientific_name": "Ophrys apifera Huds."
+    },
+    "44": {
+        "class_id": "1361759",
+        "scientific_name": "Cirsium palustre (L.) Scop."
+    },
+    "45": {
+        "class_id": "1361823",
+        "scientific_name": "Lamium galeobdolon (L.) L."
+    },
+    "46": {
+        "class_id": "1361824",
+        "scientific_name": "Lavandula angustifolia Mill."
+    },
+    "47": {
+        "class_id": "1362294",
+        "scientific_name": "Epipactis helleborine (L.) Crantz"
+    },
+    "48": {
+        "class_id": "1362490",
+        "scientific_name": "Sedum rupestre L."
+    },
+    "49": {
+        "class_id": "1362954",
+        "scientific_name": "Schefflera actinophylla (Endl.) Harms"
+    },
+    "50": {
+        "class_id": "1363128",
+        "scientific_name": "Papaver rhoeas L."
+    },
+    "51": {
+        "class_id": "1363129",
+        "scientific_name": "Papaver dubium L."
+    },
+    "52": {
+        "class_id": "1363130",
+        "scientific_name": "Papaver somniferum L."
+    },
+    "53": {
+        "class_id": "1363227",
+        "scientific_name": "Daucus carota L."
+    },
+    "54": {
+        "class_id": "1363336",
+        "scientific_name": "Smilax aspera L."
+    },
+    "55": {
+        "class_id": "1363490",
+        "scientific_name": "Phalaris arundinacea L."
+    },
+    "56": {
+        "class_id": "1363699",
+        "scientific_name": "Lupinus angustifolius L."
+    },
+    "57": {
+        "class_id": "1363737",
+        "scientific_name": "Trifolium dubium Sibth."
+    },
+    "58": {
+        "class_id": "1363740",
+        "scientific_name": "Trifolium repens L."
+    },
+    "59": {
+        "class_id": "1363749",
+        "scientific_name": "Melilotus indicus (L.) All."
+    },
+    "60": {
+        "class_id": "1363764",
+        "scientific_name": "Acacia dealbata Link"
+    },
+    "61": {
+        "class_id": "1363991",
+        "scientific_name": "Fragaria vesca L."
+    },
+    "62": {
+        "class_id": "1364099",
+        "scientific_name": "Centranthus ruber (L.) DC."
+    },
+    "63": {
+        "class_id": "1364159",
+        "scientific_name": "Tagetes patula L."
+    },
+    "64": {
+        "class_id": "1364164",
+        "scientific_name": "Lapsana communis L."
+    },
+    "65": {
+        "class_id": "1364172",
+        "scientific_name": "Lactuca sativa L."
+    },
+    "66": {
+        "class_id": "1364173",
+        "scientific_name": "Lactuca serriola L."
+    },
+    "67": {
+        "class_id": "1367432",
+        "scientific_name": "Lupinus polyphyllus Lindl."
+    },
+    "68": {
+        "class_id": "1369887",
+        "scientific_name": "Trachelospermum jasminoides (Lindl.) Lem."
+    },
+    "69": {
+        "class_id": "1369960",
+        "scientific_name": "Tradescantia spathacea Sw."
+    },
+    "70": {
+        "class_id": "1374048",
+        "scientific_name": "Tagetes erecta L."
+    },
+    "71": {
+        "class_id": "1384485",
+        "scientific_name": "Cucurbita pepo L."
+    },
+    "72": {
+        "class_id": "1385937",
+        "scientific_name": "Zamioculcas zamiifolia (Lodd.) Engl."
+    },
+    "73": {
+        "class_id": "1389510",
+        "scientific_name": "Aegopodium podagraria L."
+    },
+    "74": {
+        "class_id": "1390637",
+        "scientific_name": "Calendula arvensis L."
+    },
+    "75": {
+        "class_id": "1391192",
+        "scientific_name": "Cirsium eriophorum (L.) Scop."
+    },
+    "76": {
+        "class_id": "1391226",
+        "scientific_name": "Cirsium oleraceum (L.) Scop."
+    },
+    "77": {
+        "class_id": "1391483",
+        "scientific_name": "Cucurbita maxima Duchesne"
+    },
+    "78": {
+        "class_id": "1391652",
+        "scientific_name": "Daphne mezereum L."
+    },
+    "79": {
+        "class_id": "1392475",
+        "scientific_name": "Alliaria petiolata (M.Bieb.) Cavara & Grande"
+    },
+    "80": {
+        "class_id": "1392695",
+        "scientific_name": "Hebe salicifolia (G.Forst.) Pennell"
+    },
+    "81": {
+        "class_id": "1392777",
+        "scientific_name": "Hippophae rhamnoides L."
+    },
+    "82": {
+        "class_id": "1393241",
+        "scientific_name": "Hypericum calycinum L."
+    },
+    "83": {
+        "class_id": "1393393",
+        "scientific_name": "Kniphofia uvaria (L.) Hook."
+    },
+    "84": {
+        "class_id": "1393423",
+        "scientific_name": "Lamium album L."
+    },
+    "85": {
+        "class_id": "1393425",
+        "scientific_name": "Lamium maculatum (L.) L."
+    },
+    "86": {
+        "class_id": "1393449",
+        "scientific_name": "Lathraea clandestina L."
+    },
+    "87": {
+        "class_id": "1393614",
+        "scientific_name": "Liriodendron tulipifera L."
+    },
+    "88": {
+        "class_id": "1393792",
+        "scientific_name": "Melilotus officinalis (L.) Lam."
+    },
+    "89": {
+        "class_id": "1394382",
+        "scientific_name": "Anemone alpina L."
+    },
+    "90": {
+        "class_id": "1394404",
+        "scientific_name": "Papaver orientale L."
+    },
+    "91": {
+        "class_id": "1394420",
+        "scientific_name": "Anemone hepatica L."
+    },
+    "92": {
+        "class_id": "1394454",
+        "scientific_name": "Pelargonium inquinans (L.) Aiton"
+    },
+    "93": {
+        "class_id": "1394460",
+        "scientific_name": "Anemone nemorosa L."
+    },
+    "94": {
+        "class_id": "1394489",
+        "scientific_name": "Anemone pulsatilla L."
+    },
+    "95": {
+        "class_id": "1394504",
+        "scientific_name": "Anemone sylvestris L."
+    },
+    "96": {
+        "class_id": "1394591",
+        "scientific_name": "Angelica sylvestris L."
+    },
+    "97": {
+        "class_id": "1394994",
+        "scientific_name": "Pyracantha coccinea M.Roem."
+    },
+    "98": {
+        "class_id": "1396708",
+        "scientific_name": "Metasequoia glyptostroboides Hu & W.C.Cheng"
+    },
+    "99": {
+        "class_id": "1396824",
+        "scientific_name": "Tradescantia virginiana L."
+    },
+    "100": {
+        "class_id": "1397268",
+        "scientific_name": "Anemone hupehensis (Lemoine) Lemoine"
+    },
+    "101": {
+        "class_id": "1397312",
+        "scientific_name": "Anemone ranunculoides L."
+    },
+    "102": {
+        "class_id": "1397364",
+        "scientific_name": "Cymbalaria muralis P.Gaertn., B.Mey. & Scherb."
+    },
+    "103": {
+        "class_id": "1397420",
+        "scientific_name": "Lactuca perennis L."
+    },
+    "104": {
+        "class_id": "1398128",
+        "scientific_name": "Sedum palmeri S.Watson"
+    },
+    "105": {
+        "class_id": "1398178",
+        "scientific_name": "Tradescantia zebrina Bosse"
+    },
+    "106": {
+        "class_id": "1398444",
+        "scientific_name": "Anemone blanda Schott & Kotschy"
+    },
+    "107": {
+        "class_id": "1398515",
+        "scientific_name": "Hypericum x hidcoteense Hilling ex Geerinck"
+    },
+    "108": {
+        "class_id": "1398592",
+        "scientific_name": "Perovskia atriplicifolia Benth."
+    },
+    "109": {
+        "class_id": "1400100",
+        "scientific_name": "Barbarea vulgaris R.Br."
+    },
+    "110": {
+        "class_id": "1402921",
+        "scientific_name": "Peperomia obtusifolia (L.) A.Dietr."
+    },
+    "111": {
+        "class_id": "1408774",
+        "scientific_name": "Tradescantia pallida (Rose) D.R.Hunt"
+    },
+    "112": {
+        "class_id": "1408961",
+        "scientific_name": "Schefflera arboricola (Hayata) Merr."
+    },
+    "113": {
+        "class_id": "1409238",
+        "scientific_name": "Anthurium andraeanum Linden ex Andr\u00e9"
+    },
+    "114": {
+        "class_id": "1409292",
+        "scientific_name": "Dendrobium nobile Lindl."
+    },
+    "115": {
+        "class_id": "1409295",
+        "scientific_name": "Nandina domestica Thunb."
+    },
+    "116": {
+        "class_id": "1418146",
+        "scientific_name": "Fittonia albivenis (Lindl. ex Veitch) Brummitt"
+    },
+    "117": {
+        "class_id": "1418547",
+        "scientific_name": "Sedum morganianum E.Walther"
+    },
+    "118": {
+        "class_id": "1420863",
+        "scientific_name": "Kniphofia uvaria (L.) Oken"
+    },
+    "119": {
+        "class_id": "1421021",
+        "scientific_name": "Sedum palmeri S. Watson"
+    },
+    "120": {
+        "class_id": "1435714",
+        "scientific_name": "Pelargonium zonale (L.) L'H\u00e9r. ex Aiton"
+    },
+    "121": {
+        "class_id": "1529081",
+        "scientific_name": "Sedum adolphii Raym.-Hamet"
+    }
+}

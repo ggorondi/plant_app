@@ -1,0 +1,8 @@
+# How I created env: in parent folder run these commands in terminal:
+
+python3 -m venv plant_app_2_env
+cd plant_app_2_env
+source bin/activate
+
+pip3 install django
+pip3 install djangorestframework 

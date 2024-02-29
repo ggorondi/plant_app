@@ -1,0 +1,12 @@
+
+*.DS_Store
+
+plant_app_2_env/bin/
+plant_app_2_env/include/
+plant_app_2_env/lib/
+
+plant_v2/frontend/node_modules/
+
+plant_v2/media/images/
+
+db.sqlite3
