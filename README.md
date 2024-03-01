@@ -20,7 +20,7 @@ I used and modified a dataset of plant images obtained from a public project: ['
 - Many species are visually similar and 'difficult (to classify) even for the expert eye'
 - Has low quality user uploaded images.
   
-To face these issues, I only kept classes with over 400 images and trimmed classes with +1000 images. This approach improved validation accuracy by a wide margin. For 129 classes of plants the model achieves about 59% test accuracy, which is far from ideal but sufficient for my MVP. Further improvements include expanding the dataset with more images, cleaning and filtering the current images, and trying out different model architectures like ResNet. 
+To face these issues, I only kept classes with over 400 images and trimmed classes with +1000 images. This approach improved validation accuracy by a wide margin. For 129 classes of plants the model achieves about 59% test accuracy, which is far from ideal but sufficient for my MVP. Further improvements include expanding the dataset with more images, cleaning and filtering the current images, and training larger model architectures like ResNet. 
 
 ## Usage
 
